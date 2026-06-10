@@ -1,6 +1,6 @@
 # Hi, I'm Yousaf 👋
 
-**IT-Administrator @ GO! Express · AI Builder · Local-first advocate**
+**IT-Administrator · AI Builder · Local-first advocate**
 
 I automate IT operations by day and build AI tools that run on consumer hardware by night. My core belief: useful AI doesn't need a datacenter — it needs good architecture.
 
