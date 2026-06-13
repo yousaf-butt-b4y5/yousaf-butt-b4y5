@@ -12,6 +12,8 @@ A single, **local-first hub**: an Obsidian vault as long-term memory and a self-
 ## 🚀 Flagship work
 **[Odysseus](https://github.com/yousaf-butt-b4y5/odysseus)** — I run an extended fork of this open-source, local-first AI workspace (FastAPI + Ollama + MCP) in daily production on one PC with a 6 GB GPU: email, calendar, tasks, memory, and agent loops. Contributing upstream — Windows launcher smoke tests ([PR #2719](https://github.com/pewdiepie-archdaemon/odysseus/pull/2719)) and a Docker MCP-gateway integration ([PR #4042](https://github.com/pewdiepie-archdaemon/odysseus/pull/4042)) — both currently in review.
 
+**[Mnemo](https://github.com/yousaf-butt-b4y5/mnemo)** — my own local-first AI note hub: paste anything, it detects secrets, organizes, and files it onto a tree; instant full-text search; secrets never leave the machine or touch an LLM. FastAPI + SQLite + Ollama, MIT-licensed.
+
 **[ihk-ticket-kategorisierung](https://github.com/yousaf-butt-b4y5/ihk-ticket-kategorisierung)** — a rule-based service-desk ticket classifier in pure PowerShell (ITIL Urgency × Impact, 39 automated tests), born from real service-desk pain.
 
 ## 🔧 Stack
@@ -24,7 +26,7 @@ A single, **local-first hub**: an Obsidian vault as long-term memory and a self-
 Active Directory / Entra ID · Microsoft 365 · Citrix · ITIL · MCP (Model Context Protocol) · local LLM agent architecture
 
 ## 🤝 Open source & community
-Local-first AI is most useful when it's shared. I contribute upstream to Odysseus (Windows support, MCP gateway), document the real bugs I hit on consumer hardware, and I'm preparing **Mnemo** — a local-first AI note hub — for release.
+Local-first AI is most useful when it's shared. I contribute upstream to Odysseus (Windows support, MCP gateway), ship my own tools (Mnemo), and wire my whole stack behind a single **Ecosystem MCP** — so any AI client (Claude, Codex, IDEs) reaches my notes, memory, and vault through one interface.
 
 ## 📫 Currently
 Wiring my stack together behind MCP · running local LLMs on an RTX 2060 (6 GB) and writing up the trade-offs · 🇩🇪 C1 · 🇬🇧 English · 🇵🇰 Urdu
