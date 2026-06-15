@@ -14,6 +14,8 @@ A single, **local-first hub**: an Obsidian vault as long-term memory and a self-
 
 **[Mnemo](https://github.com/yousaf-butt-b4y5/mnemo)** — my own local-first AI note hub: paste anything, it detects secrets, organizes, and files it onto a tree; instant full-text search; secrets never leave the machine or touch an LLM. FastAPI + SQLite + Ollama, MIT-licensed.
 
+**[Ecosystem MCP](https://github.com/yousaf-butt-b4y5/ecosystem-mcp)** — a single FastMCP server that bridges all my local services (Mnemo, Odysseus, Obsidian vault) to any MCP-capable AI client. One registration, eight read-only tools — no secrets surfaced, private vault folders blocked at the MCP layer.
+
 **[ihk-ticket-kategorisierung](https://github.com/yousaf-butt-b4y5/ihk-ticket-kategorisierung)** — a rule-based service-desk ticket classifier in pure PowerShell (ITIL Urgency × Impact, 39 automated tests), born from real service-desk pain.
 
 ## 🔧 Stack
